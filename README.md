@@ -1,6 +1,6 @@
 # Hi 👋, I'm Long
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NMLONG303&label=Profile views&color=0e75b6&style=flat" alt="NMLONG303" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NMLONG303" alt="NMLONG303" /> </p>
 
 - 🔭 I'm currently working on **Software Engineer**
 
