@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://preview.redd.it/5c612iy7q5ia1.gif?width=1400&format=mp4&s=95a932d7d93d141c8840b4f1cc985298b1971584" alt="Long's Profile Picture" width="200" style="border-radius: 50%;" />
+</p>
 # Hi, I'm Long
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NMLONG303" alt="NMLONG303" /> </p>
@@ -5,8 +8,6 @@
 - 🔭 I'm currently working on **Software Engineer**
 
 - 🌱 I'm currently learning **AI Agent**
-
-- 💬 Ask me about **Springboot, React, RAG**
 
 - 📫 How to reach me **nguyenminhlong303@gmail.com**
 
