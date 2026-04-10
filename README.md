@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://preview.redd.it/5c612iy7q5ia1.gif?width=1400&format=mp4&s=95a932d7d93d141c8840b4f1cc985298b1971584" alt="Long's Profile Picture" width="200" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Long's Profile Picture" width="200" style="border-radius: 50%;" />
 </p>
 # Hi, I'm Long
 
