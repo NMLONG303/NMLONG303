@@ -5,14 +5,14 @@
 
 <h1 align="center"> Hi, I'm Long 😊</h1>
 
-<h3 align="left">👀 About Me:</h3>
-<p align="left">
+<h3>👀 About Me:</h3>
+
 - 🎓 **Computer Science** Graduate from IUH (Industrial University of Ho Chi Minh City).
 - 🚀 **Fullstack Developer** with a passion for building scalable web applications.
 - 🔭 I'm currently working on **Software Engineering** projects.
 - 🌱 I'm deep-diving into **AI Agents**, **LLMs**, and **RAG** architectures.
 - 📫 How to reach me: **nguyenminhlong303@gmail.com**
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/kako3032003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kako3032003" height="30" width="40" /></a>
