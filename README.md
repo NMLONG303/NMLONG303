@@ -1,15 +1,16 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NMLONG303" alt="NMLONG303" /> </p>
 <p align="center">
   <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" alt="Profile Picture" width="800" style="border-radius: 50%;" />
 </p>
-<h1 align="center"> Hi, I'm Long </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NMLONG303" alt="NMLONG303" /> </p>
+<h1 align="center"> Hi, I'm Long 😊</h1>
 
-- 🔭 I'm currently working on **Software Engineer**
-
-- 🌱 I'm currently learning **AI Agent**
-
-- 📫 How to reach me **nguyenminhlong303@gmail.com**
+###👀 About Me
+- 🎓 **Computer Science** Graduate from IUH (Industrial University of Ho Chi Minh City).
+- 🚀 **Fullstack Developer** with a passion for building scalable web applications.
+- 🔭 I'm currently working on **Software Engineering** projects.
+- 🌱 I'm deep-diving into **AI Agents**, **LLMs**, and **RAG** architectures.
+- 📫 How to reach me: **nguyenminhlong303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
