@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hi, I'm Long 😊</h1>
 
-###👀 About Me
+<h3 align="left">👀 About Me:</h3>
 - 🎓 **Computer Science** Graduate from IUH (Industrial University of Ho Chi Minh City).
 - 🚀 **Fullstack Developer** with a passion for building scalable web applications.
 - 🔭 I'm currently working on **Software Engineering** projects.
