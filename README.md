@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Long's Profile Picture" width="500" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/originals/44/c7/c1/44c7c1f3fbd68b2151c37af5f08198f1.gif" alt="Profile Picture" width="800" style="border-radius: 50%;" />
 </p>
-# Hi, I'm Long
+<h1 align="center"> Hi, I'm Long </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NMLONG303" alt="NMLONG303" /> </p>
 
